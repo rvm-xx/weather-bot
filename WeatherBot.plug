@@ -1,0 +1,11 @@
+[Core]
+module = WeatherBot
+name = WeatherBot
+
+[Documentation]
+description = Monsieur Meteo
+
+[Python]
+version = 3
+
+[Errbot]
