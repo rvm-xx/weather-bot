@@ -7,10 +7,6 @@ Many new features to come.
 
 *Prerequisites*
 
-<code>
-pip install errbot
-pip install slackclient
-pip install python-forecastio
-pip install pygeoip
-pip install geopy
-</code>
+```
+pip install errbot slackclient python-forecastio pygeoip geopy
+```
