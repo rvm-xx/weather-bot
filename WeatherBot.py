@@ -102,4 +102,4 @@ class WeatherBot(BotPlugin):
 if __name__ == "__main__":
     test = WeatherBot()
     print(test._get_weather(place="Meudon, France", language = 'fr'))
-    print(test._get_weather(ip='88.170.200.70'))
+    print(test._get_weather(ip='109.190.253.11'))
